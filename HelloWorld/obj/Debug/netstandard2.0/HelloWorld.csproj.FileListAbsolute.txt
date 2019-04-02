@@ -1,0 +1,12 @@
+/Users/bedour/Desktop/C#/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.deps.json
+/Users/bedour/Desktop/C#/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.dll
+/Users/bedour/Desktop/C#/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.pdb
+/Users/bedour/Desktop/C#/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csprojAssemblyReference.cache
+/Users/bedour/Desktop/C#/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bedour/Desktop/C#/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/bedour/Desktop/C#/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/bedour/Desktop/C#/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/bedour/Desktop/C#/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.AssemblyInfo.cs
+/Users/bedour/Desktop/C#/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bedour/Desktop/C#/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.dll
+/Users/bedour/Desktop/C#/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.pdb
